@@ -1,0 +1,172 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:50:16] filterscripts = ""  (string)
+[14:50:16] 
+[14:50:16] Server Plugins
+[14:50:16] --------------
+[14:50:16]  Loaded 0 plugins.
+
+[14:50:17] 
+[14:50:17] Filterscripts
+[14:50:17] ---------------
+[14:50:17]   Loaded 0 filterscripts.
+
+[14:50:17]  
+[14:50:17]  
+[14:50:17]  
+[14:50:17]  ======================================= 
+[14:50:17]  |                                     | 
+[14:50:17]  |        YSI version 3.09.0684        | 
+[14:50:17]  |        By Alex "Y_Less" Cole        | 
+[14:50:17]  |                                     | 
+[14:50:17]  ======================================= 
+[14:50:17]  
+[14:50:17]  
+[14:50:17]  
+[14:50:17] Script[gamemodes/samproyale.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[14:50:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:53:56] filterscripts = ""  (string)
+[14:53:56] 
+[14:53:56] Server Plugins
+[14:53:56] --------------
+[14:53:56]  Loaded 0 plugins.
+
+[14:53:56] 
+[14:53:56] Filterscripts
+[14:53:56] ---------------
+[14:53:56]   Loaded 0 filterscripts.
+
+[14:53:56] 
+----------------------------------
+[14:53:56]  Blank Gamemode by your name here
+[14:53:56] ----------------------------------
+
+[14:53:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:02:05] filterscripts = ""  (string)
+[15:02:05] 
+[15:02:05] Server Plugins
+[15:02:05] --------------
+[15:02:05]  Loaded 0 plugins.
+
+[15:02:05] 
+[15:02:05] Filterscripts
+[15:02:05] ---------------
+[15:02:05]   Loaded 0 filterscripts.
+
+[15:02:05] 
+----------------------------------
+[15:02:05] SAMP Royale Gamemode by TazGee
+[15:02:05] ----------------------------------
+
+[15:02:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:07:37] filterscripts = ""  (string)
+[15:07:37] 
+[15:07:37] Server Plugins
+[15:07:37] --------------
+[15:07:37]  Loaded 0 plugins.
+
+[15:07:37] 
+[15:07:37] Filterscripts
+[15:07:37] ---------------
+[15:07:37]   Loaded 0 filterscripts.
+
+[15:07:37] 
+----------------------------------
+[15:07:37] SAMP Royale Gamemode by TazGee
+[15:07:37] ----------------------------------
+
+[15:07:37] Number of vehicle models: 0
+[15:08:00] [connection] incoming connection: 127.0.0.1:59654 id: 0
+[15:08:00] [join] Nikola_Tasic has joined the server (0:127.0.0.1)
+[15:08:34] [part] Nikola_Tasic has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:10:23] filterscripts = ""  (string)
+[15:10:23] 
+[15:10:23] Server Plugins
+[15:10:23] --------------
+[15:10:23]  Loaded 0 plugins.
+
+[15:10:23] 
+[15:10:23] Filterscripts
+[15:10:23] ---------------
+[15:10:23]   Loaded 0 filterscripts.
+
+[15:10:23] 
+----------------------------------
+[15:10:23] SAMP Royale Gamemode by TazGee
+[15:10:23] ----------------------------------
+
+[15:10:23] Number of vehicle models: 0
+[15:10:44] [connection] incoming connection: 127.0.0.1:57277 id: 0
+[15:10:44] [join] Nikola_Tasic has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:12:01] filterscripts = ""  (string)
+[15:12:01] 
+[15:12:01] Server Plugins
+[15:12:01] --------------
+[15:12:01]  Loaded 0 plugins.
+
+[15:12:01] 
+[15:12:01] Filterscripts
+[15:12:01] ---------------
+[15:12:01]   Loaded 0 filterscripts.
+
+[15:12:01] 
+----------------------------------
+[15:12:01] SAMP Royale Gamemode by TazGee
+[15:12:01] ----------------------------------
+
+[15:12:01] Number of vehicle models: 0
+[15:12:18] [connection] incoming connection: 127.0.0.1:61008 id: 0
+[15:12:19] [join] Nikola_Tasic has joined the server (0:127.0.0.1)
+[15:12:35] [part] Nikola_Tasic has left the server (0:1)
